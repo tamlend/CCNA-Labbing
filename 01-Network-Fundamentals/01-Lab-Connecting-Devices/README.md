@@ -23,7 +23,7 @@ Correctly cable a multi-site topology (routers, switches, PCs, and server) using
 
 ### Screenshots
 **Before** – All devices present but unconnected  
-![Before Topology](./before-topology.png)
+![Before Topology](.Screenshot 2026-05-28 082107.png)
 
 **After** – Fully connected topology with correct cables  
 ![After Topology](./after-topology.png)

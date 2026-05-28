@@ -22,6 +22,7 @@ Correctly cable a multi-site topology (routers, switches, PCs, and server) using
    - R4–R3: multi-mode fiber (250 m)
 
 ### Screenshots
+
 **Before** – All devices present but unconnected  
 ![Before Topology](./Screenshot 2026-05-28 082107.png)
 

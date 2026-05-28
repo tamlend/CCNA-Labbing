@@ -24,9 +24,9 @@ Correctly cable a multi-site topology (routers, switches, PCs, and server) using
 ### Screenshots
 
 **Before** – All devices present but unconnected  
-![Before Topology](./before-topology.png)
+![Before Topology](../before-topology.png)
 
 **After** – Fully connected topology with correct cables  
-![After Topology](./after-topology.png)
+![After Topology](../after-topology.png)
 ### Why This Matters
 Physical cabling knowledge (copper vs fiber, pinouts, distance limits) is critical for racking servers, patching switches, and maintaining structured cabling in data centers.

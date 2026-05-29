@@ -1,5 +1,7 @@
 # Lab 2: Basic Router Configuration
 
+Date Completed: May 29, 2026
+
 ## Lab Objective
 Configure Router R1 hostname, interface IP addresses, and descriptions. Assign static IP addresses to PC1, PC2, and PC3, then verify end-to-end connectivity with ping tests.
 

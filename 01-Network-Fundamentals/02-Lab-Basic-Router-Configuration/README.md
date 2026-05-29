@@ -15,8 +15,6 @@ In data center operations, properly configuring router interfaces and IP address
 - Static IP configuration on end devices in Packet Tracer
 - Basic connectivity testing with ping across multiple networks
 
-<img src="../lab2.1.png" alt="Before Topology">
-
 ## Steps Completed
 1. Configured R1's hostname.
 2. Used `show` commands to view R1's interfaces, IP addresses, and status.

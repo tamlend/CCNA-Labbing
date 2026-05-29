@@ -42,3 +42,13 @@ R1(config-if)# no shutdown
 R1# show ip interface brief
 R1# show running-config
 R1# copy running-config startup-config
+
+## Screenshots
+
+**Before Configuration**  
+![Before Topology](lab2.1.png)
+
+**After Configuration and Successful Connectivity**  
+![After Topology](lab2.2.png)
+
+*Note: All ping tests passed (green connection indicators visible).*

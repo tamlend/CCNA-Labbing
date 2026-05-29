@@ -27,7 +27,10 @@ In data center operations, properly configuring router interfaces and IP address
 6. Configured static IP addresses on PC1, PC2, and PC3 (including correct subnet masks and default gateways).
 7. Pinged from PC1 to PC2 and PC3 to confirm full connectivity.
 
+![Before Topology](lab2.1.png)
+![After Topology](lab2.2.png)
 **Example commands used on R1 (CLI):**
+
 ```bash
 Router> enable
 Router# configure terminal
@@ -40,13 +43,3 @@ R1(config-if)# no shutdown
 R1# show ip interface brief
 R1# show running-config
 R1# copy running-config startup-config
-
-## Screenshots
-
-**Before Configuration**  
-![Before Topology](lab2.1.png)
-
-**After Configuration and Successful Connectivity**  
-![After Topology](lab2.2.png)
-
-*Note: All ping tests passed (green connection indicators visible).*
